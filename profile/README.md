@@ -1,4 +1,4 @@
-# Welcome to CMPUT 301 Winter 2024 Team 30's Official GitHub Page!
+# CMPUT 301 Winter 2024 Team 30
 
 ## 🚀 About ScanPal
 
