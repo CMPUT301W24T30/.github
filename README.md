@@ -1,1 +1,0 @@
-# ScanPal App
