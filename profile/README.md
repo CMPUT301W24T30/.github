@@ -6,6 +6,6 @@ Scanpal is our submission for the project portion of the class. It lets users jo
 
 ## 📚 Project Resources
 
-- **[Project Wiki](https://github.com/CMPUT301W24T30/ScanPal/wiki):**
-- **[Project Board](https://github.com/orgs/CMPUT301W24T30/projects/1):**
-- **[GitHub Repository](https://github.com/CMPUT301W24T30/ScanPal):**
+- **[Project Wiki](https://github.com/CMPUT301W24T30/ScanPal/wiki)**
+- **[Project Board](https://github.com/orgs/CMPUT301W24T30/projects/1)**
+- **[GitHub Repository](https://github.com/CMPUT301W24T30/ScanPal)**
