@@ -1,4 +1,4 @@
-## Hi there 👋
+## CMPUT 301 Winter 2024 Team 30
 
 <!--
 
