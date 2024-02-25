@@ -1,1 +1,1 @@
-# .github
+# ScanPal App
